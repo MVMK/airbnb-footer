@@ -1,5 +1,5 @@
 # Airbnb footer
 
-** Used: **
+**Used:**
 * BEM
 * SASS
